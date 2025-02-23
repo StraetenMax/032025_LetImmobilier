@@ -1,0 +1,74 @@
+{
+  "logosList1": [
+        {
+            "icon": "https://i.ibb.co/5nT0VG5/logo5.jpg",
+            "alt": "logo Danone agroalimentaire"
+        },
+        {
+            "icon": "https://i.ibb.co/3frZQSL/logo4.jpg",
+            "alt": "logo snipes vêtement"
+        },
+        {
+            "icon": "https://i.ibb.co/9Zn8sFY/logo3.jpg",
+            "alt": "logo l'Incroyable"
+        },
+        {
+            "icon": "https://i.ibb.co/PCdy14J/logo2.jpg",
+            "alt": "logo Lewis"
+        }
+    ],
+    "logosList2": [        
+        {
+            "icon": "https://i.ibb.co/1JtDdjZ/logo10.jpg",
+            "alt": "logo D2R"
+        },
+        {
+            "icon": "https://i.ibb.co/r5CSJTZ/logo9.jpg",
+            "alt": "logo Boulanger Electroménager"
+        },
+        {
+            "icon":"https://i.ibb.co/1fmQhDB/logo8.jpg",
+            "alt":"logo Internarché"
+        },
+        {
+            "icon":"https://i.ibb.co/TvFhqZ6/logo7.jpg",
+            "alt":"logo Bouygues Télécom"
+        }
+  ],
+  "logosList3": [
+        {
+            "icon":"https://i.ibb.co/vzfDp26/logo6.jpg",
+            "alt":"logo Norauto"
+        },
+        {
+            "icon":"https://i.ibb.co/JtjjLqW/logo16.jpg",
+            "alt":"logo des magasins U"
+        },
+        {
+            "icon":"https://i.ibb.co/6PXjrWM/logo12.jpg",
+            "alt":"logo de la chaîne de magasins Bureau Vallée"
+        },
+        {
+            "icon":"https://i.ibb.co/gMT39C5/logo14.jpg",
+            "alt":"logo Vaporama"
+        }
+  ],
+  "logosList4": [      
+        {
+            "icon":"https://i.ibb.co/rwCsPwv/logo13.jpg",
+            "alt":"logo B&M"
+        },
+        {
+            "icon":"https://i.ibb.co/3BkGVdJ/logo15.jpg",
+            "alt":"logo Jeff de Bruges"
+        },
+        {
+            "icon":"https://i.ibb.co/jzx6wwD/Logo17.jpg",
+            "alt":"logo first burger"
+        },
+        {
+            "icon":"https://i.ibb.co/1nyt9QW/logo1.jpg",
+            "alt":"logo Carefour"
+        }
+    ]
+}
