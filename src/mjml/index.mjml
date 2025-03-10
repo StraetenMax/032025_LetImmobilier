@@ -59,9 +59,10 @@
         <mj-image padding="0"></mj-image>
       </mj-column>
       <mj-column width="70%" padding="10px">
-        <mj-text padding="0" mj-class="T14-900 cOF">Alternance</mj-text>
-        <mj-text padding="0" mj-class="T28-300 cO">Décrocher un contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
-        <mj-text padding="0" mj-class="T16-400">Pour décrocher une alternance, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. Soignez CV et lettre de motivation, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
+        <mj-text padding="0" mj-class="T14-900 cOF">Dossier</mj-text>
+        <mj-text padding="0" mj-class="T28-300 cO">L'alternance&nbsp;: un modèle éducatif qui a le vent en poupe.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">L'alternance combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mêlant théorie et pratique. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des compétences recherchées et un réseau.</mj-text>
+        <mj-text padding="0" mj-class="T16-400">Deux contrats existent : apprentissage (pour un diplôme) et professionnalisation (pour l'emploi). Trouver une école et une entreprise est essentielle. L'alternance facilite l'accès à des secteurs porteurs et améliore l'employabilité des jeunes.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
