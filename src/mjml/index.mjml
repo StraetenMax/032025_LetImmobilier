@@ -14,10 +14,10 @@
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
       <mj-class name="T12-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" font-weight="300" line-height="16px"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="10px" font-weight="300" line-height="14px"/>
-      <mj-class name="c" color="#313c4e"/>
-      <mj-class name="cB" color="#2D3748"/>
+      <mj-class name="cT" color="#313c4e"/>
+      <mj-class name="cTb" color="#2D3748"/>
       <mj-class name="cO" color="#EC6608"></mj-class>
-      <mj-class name="cOF" color="#AA3E17"/>
+      <mj-class name="cOf" color="#AA3E17"/>
       <mj-spacer height="0"></mj-spacer>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
@@ -48,12 +48,12 @@
     </mj-section>
     <mj-section padding="20px">
       <mj-column padding="10px">
-        <mj-text padding="0" mj-class="T14-900 cOF" text-transform="uppercase">Edito </mj-text>
+        <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Edito </mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">La rentrée des alternances est lancée&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400" font-style="italic">C'est réellement parti&nbsp;! Les campagnes d'alternance battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Pour un BTS Professions Immobilières, les candidats sont prêts à relever de nouveaux défis&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400" font-style="italic">Grâce à la confiance de nos entreprises partenaires, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout en gagnant en expérience sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'épanouissement professionnel de nos talents.</mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles sur demande&nbsp;! C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une aventure professionnelle enrichissante&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT" font-style="italic">C'est réellement parti&nbsp;! Les <span style="font-weight:700;color:#2D3748;">campagnes d'alternance</span> battent leur plein, et c'est dans cette période riche et dynamique que les candidats viennent à notre rencontre pour bénéficier de nos formations. Pour un <span style="font-weight:700;color:#2D3748;">BTS Professions Immobilières</span>, les candidats sont prêts à relever de nouveaux défis&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT" font-style="italic">Grâce à la confiance de nos <span style="font-weight:700;color:#2D3748;">entreprises partenaires</span>, nos étudiants ont l'opportunité de poursuivre leur parcours académique tout <span style="font-weight:700;color:#2D3748;">en gagnant en expérience</span> sur le terrain. Ces entreprises nous font l'honneur de les accompagner en offrant des postes en alternance, propices à l'<span style="font-weight:700; color:#2D3748;">épanouissement professionnel</span> de nos talents.</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT" font-style="italic">Les entreprises peuvent d'ores et déjà découvrir les profils de nos futurs alternants, disponibles sur demande&nbsp;! C'est l'occasion idéale de saisir de belles opportunités et de se lancer dans une <span style="font-weight:700;">aventure professionnelle</span> enrichissante&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT" font-style="italic">À vos candidatures, prêts, partez&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -61,10 +61,10 @@
         <mj-image padding="0"></mj-image>
       </mj-column>
       <mj-column width="70%" padding="10px">
-        <mj-text padding="0" mj-class="T14-900 cOF" text-transform="uppercase">Dossier</mj-text>
+        <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Dossier</mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">L'alternance&nbsp;: un modèle éducatif qui a le vent en poupe.</mj-text>
-        <mj-text padding="0" mj-class="T16-400">L'alternance combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mêlant théorie et pratique. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des compétences recherchées et un réseau.</mj-text>
-        <mj-text padding="0" mj-class="T16-400">Deux contrats existent : apprentissage (pour un diplôme) et professionnalisation (pour l'emploi). Trouver une école et une entreprise est essentielle. L'alternance facilite l'accès à des secteurs porteurs et améliore l'employabilité des jeunes.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT">L'<span style="font-weight:700;color:#2D3748;">alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mélant <span style="font-weight:700;color:#2D3748;">théorie et pratique</span>. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT">Deux contrats existent : <span style="font-weight:700;color:#2D3748;">apprentissage</span> <span style="font-style:italic;">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic">(pour l'emploi)</span>. Trouver une école et une entreprise est essentielle. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des secteurs porteurs et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl" padding="20px">
@@ -72,9 +72,9 @@
         <mj-image padding="0"></mj-image>
       </mj-column>
       <mj-column width="70%" padding="10px">
-        <mj-text padding="0" mj-class="T14-900 cOF" text-transform="uppercase">Alternance</mj-text>
+        <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">Décrocher un contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400">Pour décrocher une alternance, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. Soignez CV et lettre de motivation, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'alternance est avant tout une formation.</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT">Pour décrocher une <span style="font-weight:700;color:#2D3748;">alternance</span>, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV</span> et <span style="font-weight:700;color:#2D3748;">lettre de motivation</span>, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'<span style="font-weight:700;color:#2D3748;">alternance</span> est avant tout une formation.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -82,9 +82,9 @@
         <mj-image padding="0"></mj-image>
       </mj-column>
       <mj-column width="70%" padding="10px">
-        <mj-text padding="0" mj-class="T14-900 cOF" text-transform="uppercase">Alternance</mj-text>
+        <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">Nos étudiants ont participé à trois conférences passionnantes&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400">Trois conférences ont enrichi nos étudiants&nbsp;: <span style="font-weight:700;">travaux immobiliers</span> <span style="font-style:italic;">(J. Delettré)</span>, <span style="font-weight:700;">vente interactive</span> <span style="font-style:italic;">(Q. Vandekerchove)</span> et <span style="font-weight:700;">recharge électrique</span> <span style="font-style:italic">(E. Gheniou)</span>. Un grand merci aux intervenants&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT">Trois conférences ont enrichi nos étudiants&nbsp;: <span style="font-weight:700;color:#2D3748;">travaux immobiliers</span> <span style="font-style:italic;">(J. Delettré)</span>, <span style="font-weight:700;color:#2D3748;">vente interactive</span> <span style="font-style:italic;">(Q. Vandekerchove)</span> et <span style="font-weight:700;color:#2D3748;">recharge électrique</span> <span style="font-style:italic">(E. Gheniou)</span>. Un grand merci aux intervenants&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
