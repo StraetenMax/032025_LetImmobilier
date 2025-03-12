@@ -33,7 +33,7 @@
   <mj-body background-color="#edf2f7">
     <mj-section background-color="#EC6608" padding="0">
       <mj-column width="480px">
-        <mj-text align="left" padding-top="5px" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Immobilier / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
+        <mj-text align="left" padding-top="5px" mj-class="T16-400 cT">Newsletter Ecosup Immobilier / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fbc49d" padding-bottom="10px">
@@ -85,8 +85,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="480px">
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Agenda</mj-text>
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO">Salon et Journées Portes Ouvertes</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Agenda</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="T28-300 cO">Salon et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="40px"> 
@@ -104,8 +104,8 @@
     </mj-section>
     <mj-section background-color="#FDE2CE" padding-bottom="0">
       <mj-column width="480px">
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH2 cOF" text-transform="uppercase">Partenaires</mj-text>
-        <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO"><span style="font-weight:700">Entreprises partenaires</span> qui accueillent nos étudiants</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
+        <mj-text padding-bottom="0" padding-top="0" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#FDE2CE" padding-bottom="40px"> 
@@ -186,10 +186,10 @@
     </mj-section>
     <mj-section>
       <mj-column width="480px">
-        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T10-300 cB">Si vous ne visualisez pas cet email correctement, cliquez <a style="color:#2D3748;font-weight:700;" href="{{ mirror }}">ici</a>.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T10-300 cB">Vous recevez ce message parce que vous vous êtes inscrit(e) aux communications d'Ecosup Campus.</mj-text>
-        <mj-text padding-top="0" align="center" mj-class="T10-300 cB"><a style="color:#2D3748;font-weight:700;" href="{{ unsubscribe }}">Se desinscrire</a></mj-text>
-        <mj-text align="center" mj-class="T10-300 cB">@2025 Ecosup Campus</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T10-300 cT">Si vous ne visualisez pas cet email correctement, cliquez <a style="color:#2D3748;font-weight:700;" href="{{ mirror }}">ici</a>.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T10-300 cT">Vous recevez ce message parce que vous vous êtes inscrit(e) aux communications d'Ecosup Campus.</mj-text>
+        <mj-text padding-top="0" align="center" mj-class="T10-300 cT"><a style="color:#2D3748;font-weight:700;" href="{{ unsubscribe }}">Se desinscrire</a></mj-text>
+        <mj-text align="center" mj-class="T10-300 cT">@2025 Ecosup Campus</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
