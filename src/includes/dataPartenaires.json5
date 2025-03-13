@@ -1,5 +1,5 @@
 {
-  "logosList": [
+  "logosList1": [
         {
             "icon": "./images/asimmobilier.png",
             "alt": "logo As immobilier"
@@ -15,7 +15,9 @@
         {
             "icon": "./images/KWkellerWilliams.png",
             "alt": "logo KW Keller Williams"
-        },     
+        }
+  ],
+    "logosList2": [
         {
             "icon": "./images/PrecisionCourtage.png",
             "alt": "logo Précision Courtage"

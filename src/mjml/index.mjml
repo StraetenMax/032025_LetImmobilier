@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Ecosup Immobilier 022025</mj-title>
+    <mj-title>Ecosup Immobilier 032025</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-raw>
       <meta name="color-scheme" content="light"/>
@@ -96,14 +96,14 @@
         <mj-text padding="10px 25px" align="right" mj-class="T14-700"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/etudiants-bts-professions-immobilieres-participe-trois-conferences/">En savoir plus...</a> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-bottom="0">
-      <mj-column width="480px">
+    <mj-section background-color="#dce6ef" padding-bottom="0">
+      <mj-column width="88%">
         <mj-text padding-bottom="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Agenda</mj-text>
         <mj-text padding-bottom="0" padding-top="0" mj-class="T28-300 cO">Salon et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-bottom="40px"> 
-      <mj-group width="480px">
+    <mj-section background-color="#dce6ef" padding-bottom="40px"> 
+      <mj-group width="88%">
         <mj-column width="33,333333%" padding="2px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
         </mj-column>
@@ -115,37 +115,38 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#FDE2CE" padding-bottom="0">
-      <mj-column width="88%">
-        <mj-text padding-bottom="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
-        <mj-text padding-bottom="0" padding-top="0" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
+    <mj-section background-color="#edf2f7" padding="20px 23px" padding-bottom="0" direction="rtl">
+      <mj-column width="60%" padding="2px">
+        <mj-text padding="0" padding-left="23px" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
+        <mj-text padding="0" padding-left="23px" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#FDE2CE" padding-bottom="40px"> 
-      <mj-group width="88%">
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/asimmobilier.png" alt="logo As immobilier"/> 
+      <mj-group width="40%">
+        <mj-column width="100%">
+          <mj-spacer height="20px"></mj-spacer>
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/GuyHoquet.png" alt="logo Guy Hoquet"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/asimmobilier.png" alt="logo As immobilier"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/inspireImmo.png" alt="logo Inspire immobilier"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/GuyHoquet.png" alt="logo Guy Hoquet"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/KWkellerWilliams.png" alt="logo KW Keller Williams"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/inspireImmo.png" alt="logo Inspire immobilier"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/PrecisionCourtage.png" alt="logo Précision Courtage"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/KWkellerWilliams.png" alt="logo KW Keller Williams"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="./images/vilogia.png" alt="logo Boulanger Electroménager"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/PrecisionCourtage.png" alt="logo Précision Courtage"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Internarché"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="./images/vilogia.png" alt="logo Boulanger Electroménager"/> 
         </mj-column>
-        <mj-column width="12.5%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Télécom"/> 
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Internarché"/> 
+        </mj-column>
+        <mj-column width="25%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Télécom"/> 
         </mj-column>
       </mj-group>
     </mj-section>
