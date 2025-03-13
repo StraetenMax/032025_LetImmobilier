@@ -103,14 +103,16 @@
       </mj-column>
       <mj-group width="60%">
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
+          <mj-spacer height="20px"></mj-spacer>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/9HcxgMyL/af-Etudiants032025.png" alt="Affiche de l'Étudiants Formations et recrutement en alternance à Lille Grand Palais le 21 et 22 mars 2025"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
+          <mj-spacer height="20px"></mj-spacer>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/JFrhSZBP/af-Jpo032025.png" alt="Affiche de la Journée Portes Ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#edf2f7" padding="20px 23px" padding-bottom="0">
+    <mj-section background-color="#edf2f7" padding="40px 23px">
       <mj-column width="40%" padding="2px">
         <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
