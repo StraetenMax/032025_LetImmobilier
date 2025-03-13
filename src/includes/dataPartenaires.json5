@@ -1,37 +1,37 @@
 {
   "logosList1": [
         {
-            "icon": "./images/asimmobilier.png",
+            "icon": "https://i.ibb.co/m5fGDdH9/asimmobilier.png",
             "alt": "logo As immobilier"
         },
         {
-            "icon": "./images/GuyHoquet.png",
+            "icon": "https://i.ibb.co/RT7svVGw/Guy-Hoquet.png",
             "alt": "logo Guy Hoquet"
         },
         {
-            "icon": "./images/inspireImmo.png",
+            "icon": "https://i.ibb.co/5W7zjxDW/inspire-Immo.png",
             "alt": "logo Inspire immo"
         },
         {
-            "icon": "./images/KellerWilliams.png",
+            "icon": "https://i.ibb.co/nsQmgbZf/Keller-Williams.png",
             "alt": "logo KW Keller Williams immobilier"
         }
   ],
     "logosList2": [
         {
-            "icon": "./images/courtagePrecision.png",
+            "icon": "https://i.ibb.co/Q3z81kGm/courtage-Precision.png",
             "alt": "logo Précision Courtage"
         },
         {
-            "icon": "./images/vilogia.png",
+            "icon": "https://i.ibb.co/ymVLXh1y/vilogia.png",
             "alt": "logo Boulanger Electroménager"
         },
         {
-            "icon":"./images/partenord.png",
+            "icon":"https://i.ibb.co/ZR1QvwgS/partenord.png",
             "alt":"logo partenord Habitat"
         },
         {
-            "icon":"./images/LMH.png",
+            "icon":"https://i.ibb.co/C3j6bZrx/LMH.png",
             "alt":"logo Lille Métropole Habitat"
         }
   ]
