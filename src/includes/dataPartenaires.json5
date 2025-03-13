@@ -10,16 +10,16 @@
         },
         {
             "icon": "./images/inspireImmo.png",
-            "alt": "logo Inspire immobilier"
+            "alt": "logo Inspire immo"
         },
         {
-            "icon": "./images/KWkellerWilliams.png",
-            "alt": "logo KW Keller Williams"
+            "icon": "./images/KellerWilliams.png",
+            "alt": "logo KW Keller Williams immobilier"
         }
   ],
     "logosList2": [
         {
-            "icon": "./images/PrecisionCourtage.png",
+            "icon": "./images/courtagePrecision.png",
             "alt": "logo Précision Courtage"
         },
         {
@@ -27,12 +27,12 @@
             "alt": "logo Boulanger Electroménager"
         },
         {
-            "icon":"https://i.ibb.co/1fmQhDB/logo8.jpg",
-            "alt":"logo Internarché"
+            "icon":"./images/partenord.png",
+            "alt":"logo partenord Habitat"
         },
         {
-            "icon":"https://i.ibb.co/TvFhqZ6/logo7.jpg",
-            "alt":"logo Bouygues Télécom"
+            "icon":"./images/LMH.png",
+            "alt":"logo Lille Métropole Habitat"
         }
   ]
 }
