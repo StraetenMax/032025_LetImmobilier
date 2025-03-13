@@ -96,31 +96,26 @@
         <mj-text padding="10px 25px" align="right" mj-class="T14-700"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/etudiants-bts-professions-immobilieres-participe-trois-conferences/">En savoir plus...</a> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#dce6ef" padding-bottom="0">
-      <mj-column width="88%">
-        <mj-text padding-bottom="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Agenda</mj-text>
-        <mj-text padding-bottom="0" padding-top="0" mj-class="T28-300 cO">Salon et Journées Portes Ouvertes</mj-text>
+    <mj-section background-color="#dce6ef" padding="20px 23px 40px 23px">
+      <mj-column width="40%" padding="2px">
+        <mj-text padding="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Agenda</mj-text>
+        <mj-text padding="0" padding-top="0" mj-class="T28-300 cO">Salon et Journées Portes Ouvertes</mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#dce6ef" padding-bottom="40px"> 
-      <mj-group width="88%">
-        <mj-column width="33,333333%" padding="2px">
+      <mj-group width="60%">
+        <mj-column width="50%" padding="2px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TPbH4L0/salon-Etudiant-Lille2025.jpg" alt="Affiche du salon du Lycéen et de l'Étudiants à Lille le 16, 17 et 18 janvier 2025"/>
         </mj-column>
-        <mj-column width="33,333333%" padding="2px">
+        <mj-column width="50%" padding="2px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/M6HZFB0/img-JPO25012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 25 janvier 2025 de 9h30 à 17h"/>
-        </mj-column>
-        <mj-column width="33,333333%" padding="2px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/fQMvYww/img-JPO30012025.jpg" alt="Affiche de la Journée Portes Ouvertes du 30 janvier 2025 de 17h à 19h"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#edf2f7" padding="20px 23px" padding-bottom="0" direction="rtl">
-      <mj-column width="60%" padding="2px">
-        <mj-text padding="0" padding-left="23px" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
-        <mj-text padding="0" padding-left="23px" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
+    <mj-section background-color="#edf2f7" padding="20px 23px" padding-bottom="0">
+      <mj-column width="40%" padding="2px">
+        <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
+        <mj-text padding="0" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
       </mj-column>
-      <mj-group width="40%">
+      <mj-group width="60%">
         <mj-column width="100%">
           <mj-spacer height="20px"></mj-spacer>
         </mj-column>
