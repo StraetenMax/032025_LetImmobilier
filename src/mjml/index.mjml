@@ -57,14 +57,16 @@
         <mj-image padding="0" src="./images/artCom01.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding-top="0">
       <mj-column width="40%">
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Dossier</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">L'alternance&nbsp;: un modèle éducatif qui a le vent en poupe.</mj-text>
       </mj-column>
       <mj-column width="60%">
-        <mj-text padding="0 12px" mj-class="T16-400 cT">L'<span style="font-weight:700;color:#2D3748;">alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mélant <span style="font-weight:700;color:#2D3748;">théorie et pratique</span>. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
-        <mj-text padding="0 12px" mj-class="T16-400 cT">Deux contrats existent : <span style="font-weight:700;color:#2D3748;">apprentissage</span> <span style="font-style:italic;">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic">(pour l'emploi)</span>. Trouver une école et une entreprise est essentielle. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des secteurs porteurs et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text padding="0 25px" mj-class="T16-400 cT">L'<span style="font-weight:700;color:#2D3748;">alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mélant <span style="font-weight:700;color:#2D3748;">théorie et pratique</span>. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="0 25px" mj-class="T16-400 cT">Deux contrats existent : <span style="font-weight:700;color:#2D3748;">apprentissage</span> <span style="font-style:italic;">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic">(pour l'emploi)</span>. Trouver une école et une entreprise est essentielle. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des secteurs porteurs et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
@@ -72,6 +74,7 @@
         <mj-image padding="0" src="./images/artCom02.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="70%">
+        <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Décrocher un contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Pour décrocher une <span style="font-weight:700;color:#2D3748;">alternance</span>, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV</span> et <span style="font-weight:700;color:#2D3748;">lettre de motivation</span>, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'<span style="font-weight:700;color:#2D3748;">alternance</span> est avant tout une formation.</mj-text>
@@ -82,6 +85,7 @@
         <mj-image padding="0" src="./images/artCom03.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="45%">
+        <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Nos étudiants ont participé à trois conférences passionnantes&nbsp;! </mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Trois conférences ont enrichi nos étudiants&nbsp;: <span style="font-weight:700;color:#2D3748;">travaux immobiliers</span> <span style="font-style:italic;">(J. Delettré)</span>, <span style="font-weight:700;color:#2D3748;">vente interactive</span> <span style="font-style:italic;">(Q. Vandekerchove)</span> et <span style="font-weight:700;color:#2D3748;">recharge électrique</span> <span style="font-style:italic">(E. Gheniou)</span>. Un grand merci aux intervenants&nbsp;!</mj-text>
