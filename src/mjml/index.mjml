@@ -33,15 +33,18 @@
   </mj-head>
   <mj-body background-color="#edf2f7">
     <mj-section background-color="#EC6608" padding="0">
-      <mj-column width="480px">
-        <mj-text align="left" padding-top="5px" font-size="16px" line-height="20px" font-weight="300" color="#000000">Newsletter Ecosup Immobilier / <span style="font-weight:700;color:#ffffff">Mars 2025</span></mj-text>
+      <mj-column>
+        <mj-text align="left" mj-class="T14-900" color="#ffffff">Mars 2025</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fbc49d" padding-bottom="10px">
-      <mj-column width="40%" vertical-align="top">
-        <mj-image border="none" width="480px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
+    <mj-section background-color="#dce6ef" padding="0px">
+      <mj-column width="30%" vertical-align="middle" padding="20px">
+        <mj-image padding="0" width="180px" src="https://i.ibb.co/C5Q0SSF/logo-Commerce112024.png" alt="logo Ecosup Commerce"></mj-image>
+        <mj-text align="center" padding="0" padding-top="10px" mj-class="T16-400 cT">Newsletter des formations en alternance des professions immobilières</mj-text>
       </mj-column>
-      <mj-column width="60%" background-color="#f77a22" border-radius="0px 40px 0px 0px"></mj-column>
+      <mj-column width="70%" vertical-align="middle">
+        <mj-image padding="0" width="600px" fluid-on-mobile="true" src="./images/imb032025.png" alt="mégalopôle asiatique la nuit"></mj-image>
+      </mj-column>
     </mj-section>
     <mj-section padding="20px">
       <mj-column padding="10px">
@@ -157,7 +160,7 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0">
-      <mj-column width="480px">
+      <mj-column width="88%">
         <mj-image padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed0f9d8a3bdbe17813ef.png" alt="Logo Ecosup-Campus"/>
         <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 cT">17 Place Charles et Albert Roussel</mj-text>
         <mj-text padding-top="0" padding-bottom="0" align="center" mj-class="T12-300 cT"><span style="text-transform:uppercase">59200 tourcoing</span></mj-text>
