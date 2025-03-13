@@ -11,6 +11,7 @@
       <mj-all font-family="Roboto, Arial, Helvetica, sans-serif"/>
       <mj-class name="T28-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28px" font-weight="300" line-height="30px"/>
       <mj-class name="T14-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px"/>
+      <mj-class name="T14-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
       <mj-class name="T12-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" font-weight="300" line-height="16px"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="10px" font-weight="300" line-height="14px"/>
@@ -54,7 +55,7 @@
     </mj-section>
     <mj-section padding="0 25px">
       <mj-column>
-        <mj-image padding="0" width="550px" src="./images/artCom01.png" alt="groupe d'étudiants en alternance présentant leur projet."/>
+        <mj-image padding="0" width="550px" src="./images/artCom01.png" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/" alt="groupe d'étudiants en alternance présentant leur projet."/>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
@@ -66,28 +67,33 @@
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">L'<span style="font-weight:700;color:#2D3748;">alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mélant <span style="font-weight:700;color:#2D3748;">théorie et pratique</span>. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Deux contrats existent : <span style="font-weight:700;color:#2D3748;">apprentissage</span> <span style="font-style:italic;">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic">(pour l'emploi)</span>. Trouver une école et une entreprise est essentielle. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des secteurs porteurs et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
+        <mj-text padding="10px 25px" align="right" mj-class="T14-700"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
       <mj-column width="30%">
-        <mj-image padding="0" src="./images/artCom02.png" alt=""></mj-image>
+        <mj-image padding="0" width="180px" src="./images/artCom02.png" alt="Alternant en entreprise accompagné de ses tuteurs"/>
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Décrocher un contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Pour décrocher une <span style="font-weight:700;color:#2D3748;">alternance</span>, définissez vos objectifs, ciblez les entreprises et utilisez les plateformes d'emploi. <span style="font-weight:700;color:#2D3748;">Soignez CV</span> et <span style="font-weight:700;color:#2D3748;">lettre de motivation</span>, personnalisez-les pour chaque offre. Préparez vos entretiens en vous renseignant sur l'entreprise. Soyez persévérant, l'<span style="font-weight:700;color:#2D3748;">alternance</span> est avant tout une formation.</mj-text>
+        <mj-text padding="15px 25px" align="right" mj-class="T14-400"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="#">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="55%">
-        <mj-image padding="0" width="330px" src="./images/artCom03.png" alt="Présentation des 3 intervenants :Jérôme Delettré de Tuto at Home, Quentin Vandekerchove de l'agence Ekimo Immobilier et Esteban Gheniou de Pôlénergie"></mj-image>
+        <mj-image padding="0" width="330px" src="./images/artCom03.png" target="_blank" href="https://ecosup-commerce.fr/etudiants-bts-professions-immobilieres-participe-trois-conferences/" alt="Présentation des 3 intervenants :Jérôme Delettré de Tuto at Home, Quentin Vandekerchove de l'agence Ekimo Immobilier et Esteban Gheniou de Pôlénergie"/>
       </mj-column>
       <mj-column width="45%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Nos étudiants ont participé à trois conférences passionnantes&nbsp;! </mj-text>
+        <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Trois conférences ont enrichi nos étudiants&nbsp;: <span style="font-weight:700;color:#2D3748;">travaux immobiliers</span> <span style="font-style:italic;">(J. Delettré)</span>, <span style="font-weight:700;color:#2D3748;">vente interactive</span> <span style="font-style:italic;">(Q. Vandekerchove)</span> et <span style="font-weight:700;color:#2D3748;">recharge électrique</span> <span style="font-style:italic">(E. Gheniou)</span>. Un grand merci aux intervenants&nbsp;!</mj-text>
+        <mj-text padding="10px 25px" align="right" mj-class="T14-700"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/etudiants-bts-professions-immobilieres-participe-trois-conferences/">En savoir plus...</a> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
